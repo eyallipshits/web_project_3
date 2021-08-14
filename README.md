@@ -14,4 +14,4 @@ The main goal of creating this page was to put to practice the different
 capabilities of the layout tools of CSS, mainly flexbox and grid. In addition
 media quarries were used in order to turn the page into a responsive design
 
-you can view the site [here](https://github.com/eyallipshits/web_project_3)
+you can view the site [here](https://eyallipshits.github.io/web_project_3)
