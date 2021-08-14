@@ -1,20 +1,17 @@
 # Project 3: From Portland to Portland
 
-### Overview
-* Intro
-* Figma
-* Images
-
 **Intro**
 
-This is a project about traveling across the US. We've made it so all the elements are displayed correctly on popular screen sizes. We recommend investing more time in completing this project, since it's more difficult than previous ones.
+This is a project about traveling across the US. In it you will find
+a route for a bicycle journey acros the US. you will find a little
+bit of information about importent landmarks along the way as well
+as some beutifule picture of the landscape that can be seen.
+Hope you enjoy!!!
 
-**Figma**
+**Technologies and Techniques**
 
-* [Link to the project on Figma](https://www.figma.com/file/AtbNbstbxWPcMqvF061V0R/Sprint-3%3A-From-Portland-to-Portland-%7C-desktop-%2B-mobile?node-id=0%3A1)
+The main goal of creating this page was to put to practice the diffrent
+capabilites of the layout tools of CSS, mainly flexbox and grid. In addition
+media quareis was used in order to turn the page into a responsive design
 
-**Images**
-
-The way you'll do this at work is by exporting images directly from Figma — we recommend doing that to practice more. Don't forget to optimize them [here](https://tinypng.com/), so your project loads faster. 
-
-Good luck and have fun!
+you can view the site [here](https://github.com/eyallipshits/web_project_3)
